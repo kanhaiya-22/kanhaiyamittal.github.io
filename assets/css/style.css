@@ -41,7 +41,7 @@
   width: 50px;
   height: 50px;
   border: 0;
-  color: #450079; /* change 1 */
+  color: #FFFFFF;
   cursor: pointer;
   font-size: 30px;
   line-height: 70px;
@@ -64,7 +64,7 @@
 
 .icon-btn:hover {
   transform: scale(1.10);
-  color: #450079;
+  color: #FFFFFF;
 }
 
 .linkedin:hover {
@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #637900;
+  color: #00796b;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -323,6 +323,7 @@ h3 {
   background: #bbdbf0 repeat;
   position: relative;
 }
+
 #intro.section .container {
   color: white;
   font-weight: 200;
@@ -472,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid  #00538a !important;
 }
 
 #skills .card.large {
@@ -548,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #4daeee !important;
 }
 
 /* .teal-text {
@@ -558,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color:  #4daeee !important;
 }
 
 /* .teal {
@@ -601,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #009616;
     height: 56px;
     line-height: 56px;
   }
